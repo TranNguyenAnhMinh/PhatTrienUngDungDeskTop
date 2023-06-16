@@ -1,0 +1,24 @@
+F:\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+F:\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+F:\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+F:\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.AssemblyReference.cache
+F:\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.SuggestedBindingRedirects.cache
+F:\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Form1.resources
+F:\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+F:\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.cache
+F:\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.CoreCompileInputs.cache
+F:\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+F:\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
+F:\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\obj\Debug\QLBanHang.fLoaiMatHang.resources
+D:\LEARN\Phát triển ứng dụng Desktop\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+D:\LEARN\Phát triển ứng dụng Desktop\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+D:\LEARN\Phát triển ứng dụng Desktop\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+D:\LEARN\Phát triển ứng dụng Desktop\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.AssemblyReference.cache
+D:\LEARN\Phát triển ứng dụng Desktop\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.SuggestedBindingRedirects.cache
+D:\LEARN\Phát triển ứng dụng Desktop\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\obj\Debug\QLBanHang.fLoaiMatHang.resources
+D:\LEARN\Phát triển ứng dụng Desktop\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Form1.resources
+D:\LEARN\Phát triển ứng dụng Desktop\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+D:\LEARN\Phát triển ứng dụng Desktop\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.cache
+D:\LEARN\Phát triển ứng dụng Desktop\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.CoreCompileInputs.cache
+D:\LEARN\Phát triển ứng dụng Desktop\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+D:\LEARN\Phát triển ứng dụng Desktop\QLBanHang(DeThiThu)\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
